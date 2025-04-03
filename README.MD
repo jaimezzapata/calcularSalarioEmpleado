@@ -1,0 +1,14 @@
+# ALGORITMO DE CONDICIONALES
+
+Desarrollar un algoritmo que permita el cálculo del salario de un empleado teniendo en cuenta quue:
+- Se debe ingresar el valor de la hora
+- Se debe ingresar la cantidad de horas
+- Se debe ingresar el nombre del empleado
+- Se debe ingresar el documento de identidad
+- El empleado podrá seleccionar un día de descanso (L-V)
+- El empleado tendrá auxilio de transporte si su salario bruto no supera los 2SMMLV
+- El empleado recibirá una bonificación del 10% sobre su salario bruto si no supera los 2SMMLV
+- El empleado no podrá trabajar menos de 24 horas
+- El empleado recibirá pago de horas extras si supera las 96 horas
+- Calcular las deducciones del salario (salud y pensión)
+- El sistema debe mostrar toda la información del empleado de forma detallada
